@@ -1,5 +1,7 @@
 👋 Hi!
 
+Network engineering is absolutely fascinating.
+
 How to reach me:
   
 Email: rluc.sal@gmail.com
